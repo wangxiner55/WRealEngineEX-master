@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Application", "Application\Application.vcxproj", "{88D79BB9-6F0E-4327-A6D7-C3C67A7FCC08}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WRealEngine", "WRealEngine\WRealEngine.vcxproj", "{290E3421-02D5-47BB-82DA-147B30AB30B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D79BB9-6F0E-4327-A6D7-C3C67A7FCC08}.Debug|x64.ActiveCfg = Debug|x64
+		{88D79BB9-6F0E-4327-A6D7-C3C67A7FCC08}.Debug|x64.Build.0 = Debug|x64
+		{88D79BB9-6F0E-4327-A6D7-C3C67A7FCC08}.Release|x64.ActiveCfg = Release|x64
+		{88D79BB9-6F0E-4327-A6D7-C3C67A7FCC08}.Release|x64.Build.0 = Release|x64
+		{290E3421-02D5-47BB-82DA-147B30AB30B8}.Debug|x64.ActiveCfg = Debug|x64
+		{290E3421-02D5-47BB-82DA-147B30AB30B8}.Debug|x64.Build.0 = Debug|x64
+		{290E3421-02D5-47BB-82DA-147B30AB30B8}.Release|x64.ActiveCfg = Release|x64
+		{290E3421-02D5-47BB-82DA-147B30AB30B8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {035B0697-0F11-4897-B52B-4FA12A5B4719}
+	EndGlobalSection
+EndGlobal
